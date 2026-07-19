@@ -1,0 +1,24 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+build/
+
+# Go
+vendor/
+*.test
+*.out
+
+# Env & secrets
+.env
+.env.*
+*.key
+config.local.*
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.log

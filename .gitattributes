@@ -1,0 +1,5 @@
+# Present this repository as a Go project in GitHub's language stats.
+*.md   linguist-documentation
+*.gif  linguist-vendored
+assets/* linguist-vendored
+LICENSE linguist-vendored
